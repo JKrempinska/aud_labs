@@ -1,0 +1,44 @@
+# Analysis of Unstructured Data (AUD) - Requirements
+
+# Core Scientific & Data
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+tqdm
+
+# Dimensionality Reduction & Classical ML
+scikit-learn
+umap-learn
+
+# Deep Learning Backbone (PyTorch)
+torch
+torchvision
+torchaudio
+
+# Text & NLP (Problem Sets 3 & 4)
+nltk
+spacy
+gensim
+transformers
+datasets
+accelerate
+
+# Images & Vision (Problem Sets 5 & 6)
+scikit-image
+pillow
+opencv-python
+grad-cam
+
+# Audio Processing (Problem Set 7)
+librosa
+soundfile
+
+# Multimodal & Scalable Search (Problem Set 8)
+faiss-cpu
+
+# Jupyter & Interactive Notebooks
+jupyter
+ipykernel
+ipywidgets

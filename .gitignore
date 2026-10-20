@@ -1,0 +1,31 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data & Models cache
+data/
+datasets/
+models/
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.onnx
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
